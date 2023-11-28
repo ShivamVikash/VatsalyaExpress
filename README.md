@@ -4,9 +4,14 @@ VatsalyaExpress is MERN Full Stack Project which is developed to provide a digit
 User based service
 Agent based service
 Pet caring resources
+
 Technology used:
 MERN Full Stack
+
 M-MongoDB
+
 R-ReactJS
+
 E-Express
+
 N-NodeJS
